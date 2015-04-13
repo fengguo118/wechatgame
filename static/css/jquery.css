@@ -1,0 +1,8 @@
+.ui-body-c, .ui-overlay-c {
+	border:0px solid #aaa;
+	color:#333;
+	text-shadow:0 1px 0 #fff;
+	 background: url("activity-scratch-card-bg.jpg") repeat scroll 0 0 #944F20;
+	margin:0;
+	padding:0 0 15px 0;
+}
